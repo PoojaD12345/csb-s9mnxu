@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://poojad12345.github.io/csb-s9mnxu/static/css/main.4cbc3200.chunk.css",
+    "main.js": "https://poojad12345.github.io/csb-s9mnxu/static/js/main.7d8fe2e3.chunk.js",
+    "main.js.map": "https://poojad12345.github.io/csb-s9mnxu/static/js/main.7d8fe2e3.chunk.js.map",
+    "runtime-main.js": "https://poojad12345.github.io/csb-s9mnxu/static/js/runtime-main.b23ddc4a.js",
+    "runtime-main.js.map": "https://poojad12345.github.io/csb-s9mnxu/static/js/runtime-main.b23ddc4a.js.map",
+    "static/js/2.552802c1.chunk.js": "https://poojad12345.github.io/csb-s9mnxu/static/js/2.552802c1.chunk.js",
+    "static/js/2.552802c1.chunk.js.map": "https://poojad12345.github.io/csb-s9mnxu/static/js/2.552802c1.chunk.js.map",
+    "index.html": "https://poojad12345.github.io/csb-s9mnxu/index.html",
+    "static/css/main.4cbc3200.chunk.css.map": "https://poojad12345.github.io/csb-s9mnxu/static/css/main.4cbc3200.chunk.css.map",
+    "static/js/2.552802c1.chunk.js.LICENSE.txt": "https://poojad12345.github.io/csb-s9mnxu/static/js/2.552802c1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b23ddc4a.js",
+    "static/js/2.552802c1.chunk.js",
+    "static/css/main.4cbc3200.chunk.css",
+    "static/js/main.7d8fe2e3.chunk.js"
+  ]
+}
